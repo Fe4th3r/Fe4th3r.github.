@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fe4th3r.github.io</id>
     <title>Fe4th3rの小窝</title>
-    <updated>2022-02-04T08:45:19.935Z</updated>
+    <updated>2022-02-04T08:51:12.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fe4th3r.github.io"/>
     <link rel="self" href="https://fe4th3r.github.io/atom.xml"/>
@@ -16,7 +16,5 @@
         <link href="https://fe4th3r.github.io/post/welcome/">
         </link>
         <updated>2022-02-04T04:43:05.000Z</updated>
-        <content type="html"><![CDATA[<p>眼看我的生日就要到了</p>
-]]></content>
     </entry>
 </feed>
